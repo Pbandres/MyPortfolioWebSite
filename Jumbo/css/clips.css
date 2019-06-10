@@ -1,0 +1,26 @@
+/*
+   New Perspectives on HTML and CSS
+   Tutorial 7
+   Tutorial Case
+
+   Jumbo Popcorn Style Sheet
+   Author: Jhoset Ceron
+   Date:   10/23/2017
+
+   Filename:         clips.css
+   Supporting Files: 
+
+*/
+
+/* Multimedia control styles */
+
+audio, video {
+    background-color: white;
+    display: block;
+    margin: 5px auto;
+    text-align: center;
+    width: 95%;
+}
+
+
+
